@@ -6,6 +6,8 @@ issac lab study
 
 3. issac sim launch
 
-4. joint controll.py run
+4. urdf convert to usd file
+  
+5. joint controll.py run
 
-5. good good very good
+6. good good very good
