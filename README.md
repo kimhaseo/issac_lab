@@ -10,4 +10,7 @@ issac lab study
   
 5. joint controll.py run
 
-6. good good very good
+6. reinforcement_learning.py 실행
+
+
+![image](https://github.com/user-attachments/assets/91841fd8-690a-4df6-a8d2-0d70ee3de5dd)
